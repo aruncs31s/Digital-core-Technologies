@@ -31,7 +31,7 @@ This relates to this hackethon named [Dihack](https://github.com/aruncs31s/Dihac
 
 ## Questions
 
-\*\*Workshop class notes is available in my [Notes](https://github.com/aruncs31s/Notes/blob/main/12%20Interviews/Digital%20Core%20Technologies/Study%20Session%20Materials.md)
+Workshop class notes is available in my [Notes](https://github.com/aruncs31s/Notes/blob/main/12%20Interviews/Digital%20Core%20Technologies/Study%20Session%20Materials.md)
 
 #### Section 1
 
