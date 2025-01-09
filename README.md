@@ -1,5 +1,29 @@
 # Digital core Technologies
 
+<!--toc:start-->
+
+- [Place](#place)
+- [Questions](#questions)
+  - [Section 1](#section-1)
+    - [**Exercise** 0](#exercise-0)
+    - [**Exercise** 1.1](#exercise-11)
+    - [**Exercise** 1.2](#exercise-12)
+    - [**Exercise** 1.3](#exercise-13)
+    - [**Exercise** 1.4](#exercise-14)
+  - [Section 2](#section-2)
+    - [**Exercise** 2.1](#exercise-21)
+    - [Excercise 2.2](#excercise-22)
+- [Offline Questions](#offline-questions)
+  - [Diodes](#diodes)
+  - [Transistor Circuits](#transistor-circuits)
+- [References](#references)
+
+## References
+
+1. [Notes](https://github.com/aruncs31s/Notes/tree/main/04%20Hackethons/Dihack)
+2. [Dihack](https://github.com/aruncs31s/Dihack-Hackathon)
+<!--toc:end-->
+
 This relates to this hackethon named [Dihack](https://github.com/aruncs31s/Dihack-Hackathon) , its notes can be found [here](https://github.com/aruncs31s/Notes/tree/main/04%20Hackethons/Dihack)
 
 ### Place
@@ -81,7 +105,7 @@ This relates to this hackethon named [Dihack](https://github.com/aruncs31s/Dihac
 
 After this there was ofline interview
 
-### Offline Questions
+## Offline Questions
 
 #### Diodes
 
