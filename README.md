@@ -1,6 +1,6 @@
-# Digital-core-Technologies
+# Digital core Technologies
 
-This relates to []() this hackethon
+This relates to this hackethon named [Dihack](https://github.com/aruncs31s/Dihack-Hackathon) , its notes can be found [here](https://github.com/aruncs31s/Notes/tree/main/04%20Hackethons/Dihack)
 
 ### Place
 
@@ -8,31 +8,96 @@ This relates to []() this hackethon
 
 ## Questions
 
-The interview has done in 3 section , 1 section was a online section , which gives some exercise to do
+\*\*Workshop class notes is available in my [Notes](https://github.com/aruncs31s/Notes/blob/main/12%20Interviews/Digital%20Core%20Technologies/Study%20Session%20Materials.md)
 
-```mermaid
-graph LR
+#### Section 1
 
-V12 --> SW --> R8k --> 4K+4k --> V12
-```
+##### **Exercise** 0
 
-```mermaid
-graph LR
-V12 --> SW --> R8k --> 4K+4k  & C--> V12
-```
+![](images/Pasted%20image%2020250109201626.png)
 
-## Circuit analysis
+- Find Vx.
+  - At the instant of the Switch S1 is turned on.
+  - After sometime
+  - when turning off .
 
-There are 3 conditions to be ana
+##### **Exercise** 1.1
 
-### RL Cicruits
+![](images/Pasted%20image%2020250109202311.png)
 
-What do they expect?
+- Find Vx.
+  - At the instant of the Switch S1 is turned on.
+  - After sometime
+  - when turning off .
 
-- make capacitor as short circuit when the switch is turned on ^[The reason beeing , the sudden change in voltage has occupies almost entire frequency spectrum or in electronics sudden change is considerd as high freq]
--
+##### **Exercise** 1.2
 
-### Transistor Circuits
+![](images/Pasted%20image%2020250109202720.png)
 
-![](images/Pasted%20image%2020250109180145.png?raw=true)
-![](images/Pasted%20image%2020250109180228.png?raw=true)
+- Find Vc.
+  - At the instant of the Switch S1 is turned on.
+  - After sometime
+  - when turning off .
+
+##### **Exercise** 1.3
+
+![](images/Pasted%20image%2020250109203522.png)
+
+- Find Vc.
+  - At the instant of the Switch S1 is turned on.
+  - After sometime
+  - when turning off .
+
+###### **Exercise** 1.4
+
+![](images/Pasted%20image%2020250109203631.png)
+
+- Find Vc.
+  - At the instant of the Switch S1 is turned on.
+  - After sometime
+  - when turning off .
+
+#### Section 2
+
+##### **Exercise** 2.1
+
+![](images/Pasted%20image%2020250109203702.png)
+
+- Find Vx.
+  - At the instant of the Switch S1 is turned on.
+  - After sometime
+  - when turning off .
+
+##### Excercise 2.2
+
+![](images/Pasted%20image%2020250109203951.png)
+
+- Find Vx.
+  - At the instant of the Switch S1 is turned on.
+  - After sometime
+  - when turning off .
+
+---
+
+After this there was ofline interview
+
+### Offline Questions
+
+#### Diodes
+
+**Q1**: Consider the following circuit , the input voltage (Vs) is rising from 0-5v, find the Vx and I? given that Vth = .6V .
+
+![](images/Pasted%20image%2020250109200625.png)
+
+**Q2**: Complete the following graph provided that Vth of diode is 6v?
+
+![](images/Pasted%20image%2020250109201139.png)
+
+#### Transistor Circuits
+
+**Q1:** Complete the timing following graph, also mark the input voltage at which the transistor goes into saturation region
+
+![](images/Pasted%20image%2020250109180145.png)
+
+**Q2:** Complete the timing following graph, also mark the input voltage at which the transistor goes into saturation region.
+![](images/Pasted%20image%2020250109180228.png)
