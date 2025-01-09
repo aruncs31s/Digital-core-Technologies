@@ -22,7 +22,7 @@
 
 This relates to this hackethon named [Dihack](https://github.com/aruncs31s/Dihack-Hackathon) , its notes can be found [here](https://github.com/aruncs31s/Notes/tree/main/04%20Hackethons/Dihack)
 
-> ![NOTE]
+> [!NOTE]
 > Note that this may not resonate with the the actual questions that they have asked due to my memory stack size being quite low. But this will give you a similar idea .
 
 ### Place
