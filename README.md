@@ -18,10 +18,6 @@
   - [Transistor Circuits](#transistor-circuits)
 - [References](#references)
 
-## References
-
-1. [Notes](https://github.com/aruncs31s/Notes/tree/main/04%20Hackethons/Dihack)
-2. [Dihack](https://github.com/aruncs31s/Dihack-Hackathon)
 <!--toc:end-->
 
 This relates to this hackethon named [Dihack](https://github.com/aruncs31s/Dihack-Hackathon) , its notes can be found [here](https://github.com/aruncs31s/Notes/tree/main/04%20Hackethons/Dihack)
@@ -125,3 +121,8 @@ After this there was ofline interview
 
 **Q2:** Complete the timing following graph, also mark the input voltage at which the transistor goes into saturation region.
 ![](images/Pasted%20image%2020250109180228.png)
+
+## References
+
+1. [Notes](https://github.com/aruncs31s/Notes/tree/main/04%20Hackethons/Dihack)
+2. [Dihack](https://github.com/aruncs31s/Dihack-Hackathon)
