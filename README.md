@@ -25,6 +25,26 @@ This relates to this hackethon named [Dihack](https://github.com/aruncs31s/Dihac
 > [!NOTE]
 > Note that this may not resonate with the the actual questions that they have asked due to my memory stack size being quite low. But this will give you a similar idea .
 
+> [!Note]
+> If anyone plan to use my Obsidian Notes as reference then do the following
+>
+> ```bash
+> cd ~/Downloads/
+> wget https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.7/Obsidian-1.7.7.AppImage
+> ./Obsidian-1.7.7.AppImage
+> git clone https://github.com/aruncs31s/Notes/
+> ```
+>
+> or without git
+>
+> ```bash
+> wget https://github.com/aruncs31s/Notes/archive/refs/heads/main.zip
+> unzip main.zip
+> ```
+
+````
+
+
 ### Place
 
 - [ ] Complete this
@@ -125,7 +145,50 @@ After this there was ofline interview
 **Q2:** Complete the timing following graph, also mark the input voltage at which the transistor goes into saturation region.
 ![](images/Pasted%20image%2020250109180228.png)
 
+## Interview Questions
+
+1. What will be its output?
+
+```c
+#include <stdio.h>
+void main() {
+  int a = 5;
+  int b = 5;
+  if (a = b) {
+    printf("true");
+  } else {
+
+    printf("false");
+  }
+}
+````
+
+2. What will be the output?
+
+```c
+#include <stdio.h>
+
+void main() {
+  int something = 2;
+
+  switch (something) {
+  case 1:
+    printf("A");
+  case 2:
+    printf("B");
+  default:
+    printf("C");
+  case 3:
+    printf("D");
+  }
+}
+```
+
 ## References
 
 1. [Notes](https://github.com/aruncs31s/Notes/tree/main/04%20Hackethons/Dihack)
 2. [Dihack](https://github.com/aruncs31s/Dihack-Hackathon)
+3. [Linked Lists](https://github.com/aruncs31s/programming/blob/main/c/Linked%20List/basicLinkedList.c) Program
+4. [Linked Lists](https://github.com/aruncs31s/Notes/blob/main/02%20Coding/Data%20Structures%20and%20Algorithms/Linked%20List.md) Notes
+5. [Pointers](https://github.com/aruncs31s/Notes/blob/main/02%20Coding/C/Pointers.md)
+6. [Electronics](https://github.com/aruncs31s/Notes/blob/main/03%20Electronics/Electronics.md)
