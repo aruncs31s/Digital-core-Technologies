@@ -42,9 +42,6 @@ This relates to this hackethon named [Dihack](https://github.com/aruncs31s/Dihac
 > unzip main.zip
 > ```
 
-````
-
-
 ### Place
 
 - [ ] Complete this
@@ -161,7 +158,7 @@ void main() {
     printf("false");
   }
 }
-````
+```
 
 2. What will be the output?
 
